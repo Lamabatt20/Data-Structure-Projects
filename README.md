@@ -3,7 +3,7 @@
  Project01:In this project, you will implement an Electricity data structure using combined sorted linked 
 lists. 
 
-Projecto2:In this project, you will implement an equation processor application using linked stack and cursor array 
+Project02:In this project, you will implement an equation processor application using linked stack and cursor array 
 implementations of a linked list.
 
 Project03:In this project, you will implement an Electricity data structure using combined AVL trees.
